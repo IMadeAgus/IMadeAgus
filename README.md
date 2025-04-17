@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-Hello! I'm MadeAgus. Currently, I am deeply involved in web and mobile development, with a primary focus on these areas, and I am committed to continuously learning and growing as a software developer.
+Hello! I'm Made Agus. Currently, I am deeply involved in web and mobile development, with a primary focus on these areas, and I am committed to continuously learning and growing as a software developer.
 
 - 🔭   I’m currently studying at Bali State Polytechnic
 - 🌱   I’m currently learning React, Laravel, Kotlin;
