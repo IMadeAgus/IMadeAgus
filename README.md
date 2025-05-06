@@ -8,7 +8,7 @@ Hello! I'm Made Agus. Currently, I am deeply involved in web and mobile developm
 - 📫   Feel free to ping me on <a href="https://linkedin.com/in/made-agus-" target="_blank"> LinkedIn </a>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.icons8.com/color/25/000000/linkedin.png)](https://www.linkedin.com/in/made-agus-budiarta)
+[![LinkedIn](https://img.icons8.com/color/25/000000/linkedin.png)](https://www.linkedin.com/in/made-agus-)
 [![Gmail](https://img.icons8.com/color/25/000000/gmail.png)](mailto:agsmade@gmail.com)
 
 # 💻 Tech Stack:
