@@ -5,7 +5,7 @@ Hello! I'm Made Agus. Currently, I am deeply involved in web and mobile developm
 - 🔭   I’m currently studying at Bali State Polytechnic
 - 🌱   I’m currently learning React, Laravel, Kotlin;
 - 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/IMadeAgus">Github</a>
-- 📫   Feel free to ping me on <a href="https://linkedin.com/in/made-agus" target="_blank"> LinkedIn </a>
+- 📫   Feel free to ping me on <a href="https://linkedin.com/in/made-agus-" target="_blank"> LinkedIn </a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.icons8.com/color/25/000000/linkedin.png)](https://www.linkedin.com/in/made-agus-budiarta)
